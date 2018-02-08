@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
 
-  cout<<"hello saurabh mittal.Congratulations for your first pull request from me ";
+  cout<<"saurabh tu karega meri pr delete kar saale! ";
 }
