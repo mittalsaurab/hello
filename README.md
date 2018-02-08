@@ -1,3 +1,5 @@
 # hello
 first test programme
-oh baklol! merge conflict seekhoge saalo!
+check 1 merge conflict
+merge conflict seekhoge saalo!
+
